@@ -1,14 +1,17 @@
-# Lab Exercise
-Using the text-edit of your choice (e.g., Atom), create a new file called `PROFILE.md`.
-
-In this exercise, you will create a mini profile of yourself.
-
-In your `PROFILE.md` document, format a title as header with your name as H1, University of Washington as H2, and your class standing as H3
+# Leonardo Rojas
+## University of Washington
+### 3rd Year (Junior)
 
 Next, you will insert a photo of yourself using **relative path**.
+![Picture of myself](./../../../../../../Fun/Trip/Leonardo.jpg)
 
-Then, write a little description about yourself with at least 2 different format stylings like **bold**, or *italicized*.
+My name is *Leonardo Rojas*, I am **21** years old. I was born and raised in a small town called **Puerto Varas** in southern Chile. I moved to the US when I was **10** years old, to a city called Tampa in Florida.
 
 Next, rank your favorite foods in an **unordered** list.
+- Salmon Ceviche
+- Beef Stroganoff
+- A good Barbecue
 
-Lastly, put your favorite quote in a block quote, and provide a link to a website that provides additional information about the quote.
+
+> As iron sharpens iron, so one person sharpens another
+[Quote Location and more information](https://www.biblegateway.com/passage/?search=Proverbs+27%3A17&version=NIV)
